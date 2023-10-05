@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "../dist/client",
+    "resolveJsonModule": true,
+    "strict": true,
+    "target": "ES2018"
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.tsx"]
+}

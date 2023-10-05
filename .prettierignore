@@ -1,0 +1,7 @@
+.work/
+.vs/
+dist/
+node_modules/
+obj/
+package-lock.json
+schema.json
